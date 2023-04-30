@@ -3,3 +3,6 @@ fastapi[all]
 uvicorn[standard]
 pydantic
 PyJWT
+psycopg2
+reportlab
+sqlalchemy

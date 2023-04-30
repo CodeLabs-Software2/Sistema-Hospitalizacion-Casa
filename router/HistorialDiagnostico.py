@@ -1,6 +1,3 @@
-import pandas as pd
-import openpyxl
-#import pyodbc
 from fastapi import APIRouter
 from schema.Usuario import Usuario
 from utils.db import DataBaseConnection
